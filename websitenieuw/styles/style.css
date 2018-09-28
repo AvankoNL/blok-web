@@ -1,0 +1,105 @@
+body {
+    font-family: nexa;
+}
+
+.navbalk {
+    width: 100%;
+    overflow: hidden;
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
+.navbalk a {
+    display: inline-block;
+    text-decoration: none;
+    float: right;
+    margin: 0.5em;
+    color: white;
+
+}
+
+#homeknop {
+    float: left;
+    color:
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #EDEDED;
+    font-size: 1.8em;
+}
+
+li {
+    float: left;
+    display: block;
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+    text-decoration: none;
+
+}
+
+a {
+    background-color: #AFAFAF;
+    padding: 0.5em;
+    border-radius: 0.3em; 
+}
+
+.populair {
+    background-color: #00D66C;
+}
+
+.filteren {
+    background-color: #2800A0;
+}
+
+img {
+    margin: 0;
+    padding: 0;
+}
+
+.kofferman {
+    height: 40em;
+    width: 60em;
+}
+
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+    margin-bottom: 1em;
+}
+
+.naam {
+    width: 15em;
+}
+
+.wachtwoord {
+    width: 15em;
+}
+
+.email {
+    width: 25em;
+}
+
+.soortenverhalen {
+    height: 20em;
+    width: 30em;
+}
+
+#zoeken {
+    display: block;
+}
